@@ -318,3 +318,39 @@ img {
     text-align: center;
 
 }
+
+/*------------------------ Member -------------------------------*/
+.member_section{
+    width: 100%;
+    float: left;
+    background-color: #333a44;
+    height: auto;
+    padding-bottom: 90px;
+    padding-top: 90px;
+
+}
+.member_section2{
+    text-align: center;
+}
+.member_text{
+    width: 100%;
+    float: left;
+    font-size: 50px;
+    color: #2d343e;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+}
+.column{
+    display: flex;
+    column-gap: 100px;
+    justify-content: center;
+}
+.card-text{
+    font-size: 20px;
+}
+.long_text_member{
+    color: #fefeff;
+    text-align: center;
+    font-size: 18px;
+}
