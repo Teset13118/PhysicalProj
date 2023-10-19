@@ -12,19 +12,9 @@ body{
     margin-bottom: 50px;
     margin-top: 20px;
 }
-.mainpic{
-    width: 50%;
-    height: 50%;
-    border-radius: 50px;
-}
-.A2{
-    text-align: center;
-    margin-bottom: 50px;
-}
 
 .A1{
     display: flex;
-    flex-flow: row wrap;
     column-gap: 30px;
     flex-direction: row;
 }
@@ -34,7 +24,7 @@ body{
 }
 .InfoTitle{
     margin-right: 50px;
-    align-items: righ;
+    align-items: right;
 }
 .picbox{
     flex: 7;
@@ -48,4 +38,9 @@ body{
 .info{
     flex: 8;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+}
+.youtubePremium{
+    margin-top: 50px;
+    text-align: center;
 }
