@@ -141,8 +141,8 @@ img {
     float: left;
     background-color: #333a44;
     height: auto;
-    padding-bottom: 100px;
-    padding-top: 100px;
+    padding-bottom: 90px;
+    padding-top: 150px;
 
 }
 
@@ -229,7 +229,6 @@ img {
 
 }
 
-
 .about_text{
     width: 100%;
     float: left;
@@ -287,4 +286,36 @@ img {
     font-weight: 500;
     margin-left: 0px;
     padding-top: 50px;
+}
+
+
+/*------------------------ Video Demo -------------------------------*/
+.video_section{
+    width: 100%;
+    float: left;
+    background-color: #f2f7fd;
+    height: auto;
+    padding-bottom: 90px;
+    padding-top: 90px;
+
+}
+
+.video_text{
+    width: 100%;
+    float: left;
+    font-size: 50px;
+    color: #2d343e;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+
+
+}
+
+.long_text{
+
+    font-size: 18px;
+    color: #2d343e;
+    text-align: center;
+
 }
