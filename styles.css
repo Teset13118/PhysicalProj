@@ -249,6 +249,49 @@ img {
 }
 
 
+
+
+/*-------------------------------------------------------------------*/
+
+.product_section{
+    width: 100%;
+    float: left;
+    background-color: #f2f7fd;
+    height: auto;
+    padding-bottom: 90px;
+
+}
+.product_text{
+    width: 100%;
+    float: left;
+    font-size: 50px;
+    color: #2d343e;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 90px;
+
+
+}
+
+.pro_text {
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #2d343e;
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+
+
+
+
+
+
+
+
 /*--------------------------- Source Code -------------------------------- */
 
 
@@ -316,7 +359,6 @@ img {
     font-size: 18px;
     color: #2d343e;
     text-align: center;
-
 }
 
 /*------------------------ Member -------------------------------*/
