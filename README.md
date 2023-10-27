@@ -22,3 +22,8 @@ https://teset13118.github.io/PhysicalProject/
 # PROJECT DEMO VIDEO
 คลิปวิดีโอสาธิตการทำงานของ Arduino Project จำลองสัญญาณไฟจราจร <br>
 https://youtu.be/TsHb14SGvG8?si=nyDhK2Xyg6B2nmhn
+
+# สมาชิก
+นางสาวนัชชา เนินกร่าง 65070117
+นางสาวปานชีวา สุ่มมาตย์ 65070136
+นายภูมิ บุตรศรีชา 65070177
