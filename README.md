@@ -15,6 +15,10 @@
 และไฟข้ามทางม้าลาย
 - ระบบเซ็นเซอร์วัดความสว่างความเข้มของแสง สามารถเปิด-ปิดไฟทางตามความสว่างของสภาพแวดล้อมรอบๆ บนท้องถนน
 
+# Website แสดงรายละเอียดโครงงาน
+https://teset13118.github.io/PhysicalProject/
+
+
 # PROJECT DEMO VIDEO
 คลิปวิดีโอสาธิตการทำงานของ Arduino Project จำลองสัญญาณไฟจราจร <br>
 https://youtu.be/TsHb14SGvG8?si=nyDhK2Xyg6B2nmhn
