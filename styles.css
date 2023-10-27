@@ -17,11 +17,11 @@ body {
     font-size: 14px;
     font-family: 'Kanit', sans-serif;
     line-height: 1.80857;
-    font-weight: normal;
     overflow-x: hidden;
 }
 
-p {
+p, pre {
+    font-family: 'Kanit', sans-serif;
     margin: 20px;
     font-weight: 300;
     font-size: 15px;
@@ -236,7 +236,7 @@ img {
     color: #2d343e;
     font-weight: 600;
     text-transform: uppercase;
-    text-align: right;
+    text-align: left;
 }
 
 .lorem_text{
@@ -245,7 +245,7 @@ img {
     font-size: 18px;
     color: #2d343e;
     margin-left: 0px;
-    text-align: right;
+    text-align: left;
 }
 
 
